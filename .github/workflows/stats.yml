@@ -1,6 +1,6 @@
 name: stats
 on:
-  schedule: [{ cron: "17 3 * * *" }]   # once a day
+  schedule: [{ cron: "17 3 * * *" }]
   workflow_dispatch:
 permissions:
   contents: write
@@ -16,7 +16,6 @@ jobs:
         working-directory: scripts
         env:
           GH_USER: ${{ github.repository_owner }}
-          # Optional: add a PAT as the STATS_TOKEN secret (read:user) to include private contributions
           GH_TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
         run: python generate.py && mv hd-*.svg stats.svg streak.svg langs.svg year.svg ..
       - name: Commit only what changed
