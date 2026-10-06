@@ -15,13 +15,13 @@ Link your current project: [LetsShop](https://github.com/whokashmiri/LetsShop) �
 
 [![projects](hd-projects.svg)](hd-projects.svg)
 
-**[project-one](https://github.com/whokashmiri/LetsShor)** · `Java ,Spring boot` 
+**[LetsShop](https://github.com/whokashmiri/LetsShop)** · `Java ,Spring boot` 
 Full-featured e-commerce backend with JWT authentication, product catalog, cart, orders, reviews, inventory management, and Moyasar payments..
 
-**[project-two](https://github.com/whokashmiri/DriverHelpFrontend)** · `typescript, react , socket-io`  
+**[DriverHelpFrontend](https://github.com/whokashmiri/DriverHelpFrontend)** · `typescript, react , socket-io`  
 The application is built with React Native, Expo, Expo Router, and TypeScript and supports both Driver and Supervisor users in one application..
 
-**[project-three](https://github.com/whokashmiri/RealEstateHaraj
+**[RealEstateHaraj](https://github.com/whokashmiri/RealEstateHaraj
 )** · `python , node , scrapper`  
 Scrapes the Haraj real-estate tag page, opens each visible ad in a new tab, captures post/user/comments GraphQL responses, reads seller phone from the contact modal, and saves one MongoDB document per post..
 
