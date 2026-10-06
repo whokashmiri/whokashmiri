@@ -1,6 +1,6 @@
 [![YOUR NAME](ascii.svg)](ascii.svg) [![Contributions in the last year](stats.svg)](stats.svg)
 
-[yoursite.com](https://whokashmiri.dev) · [instagram](https://www.instagram.com/whokashmiri/) · [linkedin](https://www.linkedin.com/in/whokashmiri/) · [email](aaqibmir.ab@gmail.com)
+[whokashmiri](https://whokashmiri.dev) · [instagram](https://www.instagram.com/whokashmiri/) · [linkedin](https://www.linkedin.com/in/whokashmiri/) · [email](aaqibmir.ab@gmail.com)
 
 [![about](hd-about.svg)](hd-about.svg)
 > Software Engineer / Freedom / Kashmir.
